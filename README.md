@@ -2,15 +2,11 @@
 
 # Solar-Flux
 [2023 Space Disaster Prediction Contest ([2023 우주전파 재난예측 경진대회](https://spaceweather.rra.go.kr/aicontest/main.do))] 1st Place
-- 
-<img src="https://github.com/teamROBI/Solar-Flux/image/problem overview.png?raw=true" width="600px">  
-- 
-<img src="https://github.com/teamROBI/Solar-Flux/image/data analysis.png?raw=true" width="600px">  
-- 
-<img src="https://github.com/teamROBI/Solar-Flux/image/model structure.png?raw=true" width="600px">  
--
-<img src="https://github.com/teamROBI/Solar-Flux/image/result.png?raw=true" width="600px">  
--
-<img src="https://github.com/teamROBI/Solar-Flux/image/result2.png?raw=true" width="600px">  
--
-<img src="https://github.com/teamROBI/Solar-Flux/image/trining result.png?raw=true" width="600px">  
+
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/problem overview.png?raw=true" width="600px">  
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/data analysis.png?raw=true" width="600px">  
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/model structure.png?raw=true" width="600px">  
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/training result.png?raw=true" width="600px">  
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/result.png?raw=true" width="600px">  
+<img src="https://github.com/teamROBI/Solar-Flux/blob/main/image/result2.png?raw=true" width="600px">  
+ 
